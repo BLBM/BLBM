@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brayan Bautista</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h3 align="center">Full Stack Developer at Realtix Valor Compartido</h3>
 
 </div>
 
