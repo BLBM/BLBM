@@ -1,16 +1,35 @@
-## Hi there 👋
+</div>
 
-<!--
-**BLBM/BLBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Full Stack Developer with a strong focus on Angular 19, Spring Boot, and cloud solutions across AWS and Azure. Experienced in designing and deploying scalable applications, with proven skills in integrating geospatial services such as Maxar Discovery API for advanced imagery solutions.
 
-Here are some ideas to get you started:
+<div align="Center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h1>Skills</h1>
+</div>
+
+<div align="Center">
+
+| Website | Programming |
+| ------------- | ------------- |
+| <img src="https://skillicons.dev/icons?i=java,nodejs,ts,angular,postgres"/> | <img src="https://skillicons.dev/icons?i=git,vscode,aws,azure,github"/> |
+
+</div>
+
+<div align="Center">
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/></p>
+
+</div>
+
+
+<div align="Center">
+
+|‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
+| ----------|
+| <a href="mailto:bbautistamera@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://www.linkedin.com/in/brayan-b4utista/"> <img src="https://skillicons.dev/icons?i=linkedin"/> 
+
+</div>
